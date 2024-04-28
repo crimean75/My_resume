@@ -16,17 +16,17 @@
         h1{
             color:black;
         }
-        /* .section1 {
-            background-color: lightblue;
-           
-        }
-
-        .section2 {
+        label:hover{
             background-color: yellow;
-           
-        } */
+        }
+        li:hover {
+            background-color: yellow;
+        }
+        table:hover{
+            background-color: yellow;
+        }
         
-        b {
+         b {
             color: blue; /* Set the color to pink */
             font-weight: bold; /* Ensure the text is bold */
         }
