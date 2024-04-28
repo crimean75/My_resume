@@ -1,0 +1,46 @@
+
+
+.skill{
+    text-align: left;
+}
+/* .b {
+    color: aqua;
+} */
+
+/* <style> */
+        /* Define a CSS rule to target bold elements */
+
+        body {
+            background-color:whitesmoke ;
+        }
+        h1{
+            color:black;
+        }
+        /* .section1 {
+            background-color: lightblue;
+           
+        }
+
+        .section2 {
+            background-color: yellow;
+           
+        } */
+        
+        b {
+            color: blue; /* Set the color to pink */
+            font-weight: bold; /* Ensure the text is bold */
+        }
+        a {
+            color: brown;
+            font-weight: bolder;
+
+        }
+        body {
+        background-color:white(165, 192, 201); /* Change the color to light blue */
+    }
+    h3 {
+        color: red;
+    }
+    /* </style> */
+
+
