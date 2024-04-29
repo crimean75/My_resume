@@ -27,11 +27,11 @@
         }
         
          b {
-            color: blue; /* Set the color to pink */
+            color: #e91e63; /* Set the color to pink */
             font-weight: bold; /* Ensure the text is bold */
         }
         a {
-            color: brown;
+            color: rgb(52, 42, 165);
             font-weight: bolder;
 
         }
